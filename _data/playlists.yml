@@ -1,0 +1,13 @@
+- playlist: 2024 Spring
+  spotify: https://open.spotify.com/link
+  tracks:
+    - track: Title 1
+      artist: Artist 1
+      album: Album 1
+    - track: Title 2
+      artist: Artist 2
+      album: Album 2
+    - track: Title 3
+      artist: Artist 3
+      album: Album 3
+

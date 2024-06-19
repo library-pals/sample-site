@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Shrimp Tacos Recipe",
+    "site": "NYT Cooking",
+    "author": "",
+    "date": "2024-06-02",
+    "timestamp": "2024-06-02T23:07:47.703Z",
+    "description": "Spiced shrimp and quick-pickled red cabbage fill corn tortillas for dressed-up tacos that are easy to put together and sure to be a favorite The seasoned shrimp is cooked in a heated skillet for a slight char, but resist the temptation to move the pieces before the contact side is properly browned You can keep the add-ons simple with slices of creamy avocado, bits of fresh cilantro and acidic bursts from lime slices",
+    "url": "https://cooking.nytimes.com/recipes/1023929-shrimp-tacos",
+    "image": "bookmark-shrimp-tacos-recipe.jpg",
+    "type": "article",
+    "waybackUrl": "http://web.archive.org/web/20230331021410/https://cooking.nytimes.com/recipes/1023929-shrimp-tacos?smid=ck-recipe-iOS-share"
+  },
+  {
+    "title": "Pico de Gallo Recipe",
+    "site": "NYT Cooking",
+    "author": "",
+    "date": "2024-06-02",
+    "timestamp": "2024-06-02T23:08:27.378Z",
+    "description": "This recipe is a classic pico de gallo preparation with the exception of the inclusion of two types of spicy chiles, jalapeño and serrano Their flavors are so different: Jalapeños are much more vegetal and can lean into bell pepper and poblano flavors, while serranos are much sharper, crisp and almost cucumber-like They complement each other very well, and are used in many Mexican salsas",
+    "url": "https://cooking.nytimes.com/recipes/1023522-pico-de-gallo",
+    "image": "bookmark-pico-de-gallo-recipe.jpg",
+    "type": "article"
+  },
+  {
+    "title": "Simple Guacamole Recipe",
+    "site": "NYT Cooking",
+    "author": "",
+    "date": "2024-06-02",
+    "timestamp": "2024-06-02T23:09:19.539Z",
+    "description": "Providing a framework to build on as you wish, this pared-down guacamole lets the avocado shine If you want more lime, add more lime Seed the jalapeño, if you prefer its fruity heat without the spice, or leave the seeds in, if you enjoy living life on the edge",
+    "url": "https://cooking.nytimes.com/recipes/1023223-simple-guacamole",
+    "image": "bookmark-simple-guacamole-recipe.jpg",
+    "type": "article"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "identifier": "9611909",
+    "identifiers": {
+      "libby": "9611909"
+    },
+    "dateStarted": "2024-06-07",
+    "status": "finished",
+    "rating": "unrated",
+    "image": "book-9611909.png",
+    "link": "https://share.libbyapp.com/title/9611909",
+    "title": "How Infrastructure Works",
+    "description": "NAMED A BEST BOOK OF 2023 BY PUBLISHERS WEEKLY Revelatory, superbly written, and pulsing with wisdom and humanity, How Infrastructure Works is a masterpiece. - Ed Yong, author of An Immense WorldA new way of seeing the essential systems hidden inside our walls, under our streets, and all around us Infrastructure is a marvel, meeting our basic needs and enabling lives of astounding ease and productivity that wo...",
+    "authors": [
+      "Deb Chachra",
+      "Kathe Mazur"
+    ],
+    "publishedDate": "2023-10-17",
+    "thumbnail": "https://img1.od-cdn.com/ImageType-100/1191-1/{250AC598-47AF-45DB-9BCC-54756C684758}IMG100.JPG",
+    "publisher": "Books on Tape",
+    "categories": [
+      "Politics",
+      "Technology",
+      "Engineering",
+      "Nonfiction"
+    ],
+    "format": "audiobook",
+    "dateFinished": "2024-06-11",
+    "tags": [
+      "recommend"
+    ]
+  },
+  {
+    "identifier": "6359846",
+    "identifiers": {
+      "libby": "6359846"
+    },
+    "dateStarted": "2024-06-12",
+    "status": "finished",
+    "rating": "unrated",
+    "image": "book-6359846.png",
+    "link": "https://share.libbyapp.com/title/6359846",
+    "title": "Checkout 19",
+    "description": "A NEW YORK TIMES 10 BEST BOOKS OF THE YEAR AND A NEW YORKER “ESSENTIAL READ” NAMED A BEST BOOK OF THE YEAR BY THE NEW YORKER AND VOGUE Bennett writes like no one else. She is a rare talent, and Checkout 19 is a masterful novel. - Karl Ove Knausgaard From the author of the “dazzling… . and daring” Pond (O magazine), the adventures of a young woman discovering her own genius, through the people she meets - an...",
+    "authors": [
+      "Claire-Louise Bennett",
+      "Claire-Louise Bennett"
+    ],
+    "publishedDate": "2022-03-01",
+    "thumbnail": "https://img3.od-cdn.com/ImageType-100/1191-1/{318D0CF0-F3D6-4281-ADC8-5D9A23CEF888}Img100.jpg",
+    "publisher": "Books on Tape",
+    "categories": [
+      "Fiction",
+      "Literature"
+    ],
+    "format": "audiobook",
+    "dateFinished": "2024-06-13"
+  },
+  {
+    "identifier": "9862410",
+    "identifiers": {
+      "libby": "9862410"
+    },
+    "dateStarted": "2024-06-13",
+    "status": "finished",
+    "rating": "unrated",
+    "image": "book-9862410.png",
+    "link": "https://share.libbyapp.com/title/9862410",
+    "title": "On Earth as It Is on Television",
+    "description": "In Emily Jane’s rollicking debut, when spaceships arrive and then depart suddenly without a word, the certainty that we are not alone in the universe turns to intense uncertainty as to our place within it. “Weird and sweet… like a 2020s White Noise: loud and colorful Americana with a sprinkle of apocalyptic doom.” - Edgar Cantero “Heartfelt, witty, and secretly romantic… a delightful and poignant story about what ...",
+    "authors": [
+      "Emily Jane",
+      "Hayden Bishop"
+    ],
+    "publishedDate": "2023-06-13",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/7552-1/{BC9ECB99-AFD2-4679-9D74-46A56198AA8F}IMG100.JPG",
+    "publisher": "Hyperion Avenue",
+    "categories": [
+      "Fiction",
+      "Literature",
+      "Science Fiction",
+      "Humor (Fiction)"
+    ],
+    "format": "audiobook",
+    "dateFinished": "2024-06-17"
+  },
+  {
+    "identifier": "1052742",
+    "identifiers": {
+      "libby": "1052742"
+    },
+    "dateStarted": "2024-06-17",
+    "status": "finished",
+    "rating": "unrated",
+    "image": "book-1052742.png",
+    "link": "https://share.libbyapp.com/title/1052742",
+    "title": "Mr. Penumbra's 24-Hour Bookstore",
+    "description": "A gleeful and exhilarating tale of global conspiracy, complex code-breaking, high-tech data visualization, young love, rollicking adventure, and the secret to eternal life - mostly set in a hole-in-the-wall San Francisco bookstoreThe Great Recession has shuffled Clay Jannon out of his life as a San Francisco Web-design drone - and serendipity, sheer curiosity, and the ability to climb a ladder like a monkey has la...",
+    "authors": [
+      "Robin Sloan"
+    ],
+    "publishedDate": "2012-10-02",
+    "thumbnail": "https://img2.od-cdn.com/ImageType-100/1493-1/{FAF182E5-2F05-4729-B2CD-139D6BB0B19E}Img100.jpg",
+    "publisher": "Macmillan Audio",
+    "categories": [
+      "Fantasy",
+      "Fiction",
+      "Literature",
+      "Thriller"
+    ],
+    "format": "audiobook",
+    "dateFinished": "2024-06-19"
+  }
+]
